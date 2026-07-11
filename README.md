@@ -62,7 +62,7 @@
 
 ━━━━━━━━━━━━━━ ۶ৎ ━━━━━━━━━━━━━━
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=35&duration=1&pause=99999999999999999999999999999999999999999999999999999999999999999999999999999999999&color=c2bdbd&background=FFFFFF00&center=true&vCenter=true&width=600&height=70&lines=%E2%9C%A7+Contributiion+Snake+%E2%9C%A7" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=35&duration=1&pause=99999999999999999999999999999999999999999999999999999999999999999999999999999999999&color=c2bdbd&background=FFFFFF00&center=true&vCenter=true&width=600&height=70&lines=%E2%9C%A7+Contribution+Snake+%E2%9C%A7" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://github.com/aiirwrecker/aiirwrecker/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
